@@ -1,0 +1,8 @@
+<apex:page
+	showHeader="true"
+	sidebar="true"
+	standardController="Account"
+	extensions="UpdateAccountTypeController"
+	action="{!changeType}">
+
+</apex:page>
